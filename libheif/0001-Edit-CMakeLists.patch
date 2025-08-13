@@ -5,7 +5,7 @@ Subject: [PATCH] Edit CMakeLists
 
 This patch updates VVdeC version and bypasses some problems during build process and not configurable.
 ---
- CMakeLists.txt        | 4 ++--
+ CMakeLists.txt        | 2 +-
  heifio/CMakeLists.txt | 2 +-
  2 files changed, 3 insertions(+), 3 deletions(-)
 
