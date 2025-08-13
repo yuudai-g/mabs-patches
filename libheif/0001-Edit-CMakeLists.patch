@@ -7,7 +7,7 @@ This patch updates VVdeC version and bypasses some problems during build process
 ---
  CMakeLists.txt        | 2 +-
  heifio/CMakeLists.txt | 2 +-
- 2 files changed, 3 insertions(+), 3 deletions(-)
+ 2 files changed, 2 insertions(+), 2 deletions(-)
 
 diff --git a/CMakeLists.txt b/CMakeLists.txt
 index bf0d8d06..00939d18 100644
